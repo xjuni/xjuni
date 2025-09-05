@@ -25,13 +25,9 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 
 <div align="center">
-
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=xjuni&theme=prussian&hide_border=false&include_all_commits=false&count_private=true" />
-  
-  <img width="400" src="https://nirzak-streak-stats.vercel.app/?user=xjuni&theme=prussian&hide_border=false" />
-  
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=xjuni&theme=prussian&hide_border=false&include_all_commits=false&count_private=true" /><br/>
+  <img width="400" src="https://nirzak-streak-stats.vercel.app/?user=xjuni&theme=prussian&hide_border=false" /><br/>
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjuni&theme=prussian&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-
 </div>
 
 ---
